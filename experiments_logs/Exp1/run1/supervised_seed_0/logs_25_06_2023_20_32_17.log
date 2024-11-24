@@ -1,0 +1,133 @@
+=============================================
+Dataset: EMG
+Method:  °³¹ßÁß...
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.5186	 | 	Train Accuracy     : 0.8083
+Valid Loss     : 0.0090	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 2
+Train Loss     : 0.1465	 | 	Train Accuracy     : 0.9333
+Valid Loss     : 0.0525	 | 	Valid Accuracy     : 0.9750
+
+Epoch : 3
+Train Loss     : 0.3404	 | 	Train Accuracy     : 0.9250
+Valid Loss     : 0.1247	 | 	Valid Accuracy     : 0.9500
+
+Epoch : 4
+Train Loss     : 0.0503	 | 	Train Accuracy     : 0.9750
+Valid Loss     : 0.0056	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 5
+Train Loss     : 0.0947	 | 	Train Accuracy     : 0.9417
+Valid Loss     : 0.0064	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 6
+Train Loss     : 0.1235	 | 	Train Accuracy     : 0.9667
+Valid Loss     : 0.4197	 | 	Valid Accuracy     : 0.9250
+
+Epoch : 7
+Train Loss     : 0.2183	 | 	Train Accuracy     : 0.9250
+Valid Loss     : 0.0266	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 8
+Train Loss     : 0.0589	 | 	Train Accuracy     : 0.9833
+Valid Loss     : 0.0167	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 9
+Train Loss     : 0.1048	 | 	Train Accuracy     : 0.9750
+Valid Loss     : 0.0379	 | 	Valid Accuracy     : 0.9750
+
+Epoch : 10
+Train Loss     : 0.0436	 | 	Train Accuracy     : 0.9833
+Valid Loss     : 0.0264	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 11
+Train Loss     : 0.0559	 | 	Train Accuracy     : 0.9750
+Valid Loss     : 0.0144	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 12
+Train Loss     : 0.0960	 | 	Train Accuracy     : 0.9667
+Valid Loss     : 0.0188	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 13
+Train Loss     : 0.2223	 | 	Train Accuracy     : 0.9500
+Valid Loss     : 0.0220	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 14
+Train Loss     : 0.0128	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0128	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 15
+Train Loss     : 0.0098	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0151	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 16
+Train Loss     : 0.0210	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0101	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 17
+Train Loss     : 0.0650	 | 	Train Accuracy     : 0.9833
+Valid Loss     : 0.0149	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 18
+Train Loss     : 0.0209	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0133	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 19
+Train Loss     : 0.0081	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0121	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 20
+Train Loss     : 0.0286	 | 	Train Accuracy     : 0.9917
+Valid Loss     : 0.0204	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 21
+Train Loss     : 0.0197	 | 	Train Accuracy     : 0.9917
+Valid Loss     : 0.0154	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 22
+Train Loss     : 0.0094	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0160	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 23
+Train Loss     : 0.0125	 | 	Train Accuracy     : 0.9917
+Valid Loss     : 0.0108	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 24
+Train Loss     : 0.0222	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0192	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 25
+Train Loss     : 0.0026	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0116	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 26
+Train Loss     : 0.0126	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0148	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 27
+Train Loss     : 0.0271	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0179	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 28
+Train Loss     : 0.0179	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0155	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 29
+Train Loss     : 0.0117	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0109	 | 	Valid Accuracy     : 1.0000
+
+Epoch : 30
+Train Loss     : 0.0099	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 0.0147	 | 	Valid Accuracy     : 1.0000
+
+Evaluate on the Test set:
+Test loss      :0.1323	 | Test Accuracy      : 0.9545
+
+################## Training is Done! #########################
+Training time is : 0:01:21.588245

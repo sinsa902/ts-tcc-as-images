@@ -1,0 +1,53 @@
+=============================================
+Dataset: Epilepsy
+Method:  °³¹ßÁß...
+Mode:    random_init
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.7110	 | 	Train Accuracy     : 0.5000
+Valid Loss     : 0.5633	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 2
+Train Loss     : 0.6429	 | 	Train Accuracy     : 0.6964
+Valid Loss     : 0.5639	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 3
+Train Loss     : 0.6246	 | 	Train Accuracy     : 0.6964
+Valid Loss     : 0.4782	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 4
+Train Loss     : 0.5873	 | 	Train Accuracy     : 0.6964
+Valid Loss     : 0.4905	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 5
+Train Loss     : 0.5807	 | 	Train Accuracy     : 0.6964
+Valid Loss     : 0.4795	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 6
+Train Loss     : 0.5567	 | 	Train Accuracy     : 0.7143
+Valid Loss     : 0.4765	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 7
+Train Loss     : 0.5367	 | 	Train Accuracy     : 0.7143
+Valid Loss     : 0.4490	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 8
+Train Loss     : 0.5087	 | 	Train Accuracy     : 0.7143
+Valid Loss     : 0.4352	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 9
+Train Loss     : 0.5047	 | 	Train Accuracy     : 0.7321
+Valid Loss     : 0.4217	 | 	Valid Accuracy     : 0.8125
+
+Epoch : 10
+Train Loss     : 0.5114	 | 	Train Accuracy     : 0.7321
+Valid Loss     : 0.4121	 | 	Valid Accuracy     : 0.8125
+
+Evaluate on the Test set:
+Test loss      :0.5146	 | Test Accuracy      : 0.7083
+
+################## Training is Done! #########################
+Training time is : 0:00:06.969867

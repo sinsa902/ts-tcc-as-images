@@ -1,0 +1,19 @@
+=============================================
+Dataset: pFD
+Method:  TS-TCC
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 32.4233	 | 	Train Accuracy     : 0.4212
+Valid Loss     : 7.5880	 | 	Valid Accuracy     : 0.6052
+
+Epoch : 2
+Train Loss     : 9.7085	 | 	Train Accuracy     : 0.5378
+Valid Loss     : 3.3168	 | 	Valid Accuracy     : 0.7471
+
+Epoch : 3
+Train Loss     : 3.2700	 | 	Train Accuracy     : 0.6782
+Valid Loss     : 1.9544	 | 	Valid Accuracy     : 0.7643

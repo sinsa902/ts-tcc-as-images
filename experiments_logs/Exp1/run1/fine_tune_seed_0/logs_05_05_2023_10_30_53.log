@@ -1,0 +1,15 @@
+=============================================
+Dataset: Epilepsy
+Method:  °³¹ßÁß...
+Mode:    fine_tune
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.1049	 | 	Train Accuracy     : 0.9601
+Valid Loss     : 0.0741	 | 	Valid Accuracy     : 0.9691
+
+Epoch : 2
+Train Loss     : 0.0702	 | 	Train Accuracy     : 0.9743
+Valid Loss     : 0.0594	 | 	Valid Accuracy     : 0.9778

@@ -1,0 +1,25 @@
+=============================================
+Dataset: pFD
+Method:  TS-TCC
+Mode:    fine_tune
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.1760	 | 	Train Accuracy     : 0.9264
+Valid Loss     : 0.2045	 | 	Valid Accuracy     : 0.9115
+
+Epoch : 2
+Train Loss     : 0.0460	 | 	Train Accuracy     : 0.9840
+Valid Loss     : 0.4401	 | 	Valid Accuracy     : 0.8743
+
+Epoch : 3
+Train Loss     : 0.0661	 | 	Train Accuracy     : 0.9772
+Valid Loss     : 0.0312	 | 	Valid Accuracy     : 0.9874
+
+Evaluate on the Test set:
+Test loss      :0.0270	 | Test Accuracy      : 0.9898
+
+################## Training is Done! #########################
+Training time is : 0:00:14.343071

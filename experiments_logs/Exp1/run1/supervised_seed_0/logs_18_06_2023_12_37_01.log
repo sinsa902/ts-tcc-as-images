@@ -1,0 +1,35 @@
+=============================================
+Dataset: ECG
+Method:  °³¹ßÁß...
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 1.2412	 | 	Train Accuracy     : 0.4484
+Valid Loss     : 1.1612	 | 	Valid Accuracy     : 0.5089
+
+Epoch : 2
+Train Loss     : 0.9462	 | 	Train Accuracy     : 0.6709
+Valid Loss     : 1.0481	 | 	Valid Accuracy     : 0.5971
+
+Epoch : 3
+Train Loss     : 0.7834	 | 	Train Accuracy     : 0.7249
+Valid Loss     : 1.0264	 | 	Valid Accuracy     : 0.5692
+
+Epoch : 4
+Train Loss     : 0.6375	 | 	Train Accuracy     : 0.8060
+Valid Loss     : 1.0326	 | 	Valid Accuracy     : 0.5737
+
+Epoch : 5
+Train Loss     : 0.4929	 | 	Train Accuracy     : 0.8811
+Valid Loss     : 1.0538	 | 	Valid Accuracy     : 0.5826
+
+Epoch : 6
+Train Loss     : 0.3590	 | 	Train Accuracy     : 0.9406
+Valid Loss     : 1.0915	 | 	Valid Accuracy     : 0.5804
+
+Epoch : 7
+Train Loss     : 0.2443	 | 	Train Accuracy     : 0.9725
+Valid Loss     : 1.1407	 | 	Valid Accuracy     : 0.5580

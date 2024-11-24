@@ -1,0 +1,15 @@
+=============================================
+Dataset: pFD
+Method:  TS-TCC
+Mode:    random_init
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 173.0563	 | 	Train Accuracy     : 0.4217
+Valid Loss     : 39.7906	 | 	Valid Accuracy     : 0.4654
+
+Epoch : 2
+Train Loss     : 117.8918	 | 	Train Accuracy     : 0.4349
+Valid Loss     : 102.7029	 | 	Valid Accuracy     : 0.4607

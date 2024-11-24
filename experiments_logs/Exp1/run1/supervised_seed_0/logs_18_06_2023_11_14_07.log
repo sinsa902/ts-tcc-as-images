@@ -1,0 +1,27 @@
+=============================================
+Dataset: EMG
+Method:  °³¹ßÁß...
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.6992	 | 	Train Accuracy     : 0.7377
+Valid Loss     : 0.9096	 | 	Valid Accuracy     : 0.4750
+
+Epoch : 2
+Train Loss     : 0.3959	 | 	Train Accuracy     : 0.8689
+Valid Loss     : 0.5709	 | 	Valid Accuracy     : 0.7000
+
+Epoch : 3
+Train Loss     : 0.2382	 | 	Train Accuracy     : 0.9016
+Valid Loss     : 0.7340	 | 	Valid Accuracy     : 0.6500
+
+Epoch : 4
+Train Loss     : 0.0920	 | 	Train Accuracy     : 0.9754
+Valid Loss     : 0.6088	 | 	Valid Accuracy     : 0.7750
+
+Epoch : 5
+Train Loss     : 0.0264	 | 	Train Accuracy     : 1.0000
+Valid Loss     : 1.1807	 | 	Valid Accuracy     : 0.5250

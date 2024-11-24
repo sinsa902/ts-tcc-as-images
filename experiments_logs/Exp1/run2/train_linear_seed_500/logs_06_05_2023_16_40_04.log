@@ -1,0 +1,47 @@
+=============================================
+Dataset: sleepEDF
+Method:  °³¹ßÁß...
+Mode:    train_linear
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 1.5810	 | 	Train Accuracy     : 0.3244
+Valid Loss     : 1.4496	 | 	Valid Accuracy     : 0.4173
+
+Epoch : 2
+Train Loss     : 1.4571	 | 	Train Accuracy     : 0.4104
+Valid Loss     : 1.4437	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 3
+Train Loss     : 1.4534	 | 	Train Accuracy     : 0.4106
+Valid Loss     : 1.4423	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 4
+Train Loss     : 1.4512	 | 	Train Accuracy     : 0.4104
+Valid Loss     : 1.4384	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 5
+Train Loss     : 1.4477	 | 	Train Accuracy     : 0.4110
+Valid Loss     : 1.4357	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 6
+Train Loss     : 1.4453	 | 	Train Accuracy     : 0.4104
+Valid Loss     : 1.4348	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 7
+Train Loss     : 1.4443	 | 	Train Accuracy     : 0.4106
+Valid Loss     : 1.4311	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 8
+Train Loss     : 1.4415	 | 	Train Accuracy     : 0.4108
+Valid Loss     : 1.4291	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 9
+Train Loss     : 1.4404	 | 	Train Accuracy     : 0.4106
+Valid Loss     : 1.4283	 | 	Valid Accuracy     : 0.4171
+
+Epoch : 10
+Train Loss     : 1.4382	 | 	Train Accuracy     : 0.4105
+Valid Loss     : 1.4271	 | 	Valid Accuracy     : 0.4171

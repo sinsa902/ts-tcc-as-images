@@ -1,0 +1,23 @@
+=============================================
+Dataset: sleepEDF
+Method:  TS-TCC
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 1.5669	 | 	Train Accuracy     : 0.3122
+Valid Loss     : 1.5119	 | 	Valid Accuracy     : 0.4000
+
+Epoch : 2
+Train Loss     : 1.5002	 | 	Train Accuracy     : 0.4106
+Valid Loss     : 1.4971	 | 	Valid Accuracy     : 0.4112
+
+Epoch : 3
+Train Loss     : 1.4771	 | 	Train Accuracy     : 0.4156
+Valid Loss     : 1.4837	 | 	Valid Accuracy     : 0.4191
+
+Epoch : 4
+Train Loss     : 1.4562	 | 	Train Accuracy     : 0.4200
+Valid Loss     : 1.4875	 | 	Valid Accuracy     : 0.4109

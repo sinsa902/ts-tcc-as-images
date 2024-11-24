@@ -1,0 +1,11 @@
+=============================================
+Dataset: Epilepsy
+Method:  °³¹ßÁß...
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.1324	 | 	Train Accuracy     : 0.9484
+Valid Loss     : 0.0653	 | 	Valid Accuracy     : 0.9797

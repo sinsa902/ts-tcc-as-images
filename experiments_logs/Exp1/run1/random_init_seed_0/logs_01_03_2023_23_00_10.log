@@ -1,0 +1,25 @@
+=============================================
+Dataset: pFD
+Method:  TS-TCC
+Mode:    random_init
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.6534	 | 	Train Accuracy     : 0.6815
+Valid Loss     : 0.5788	 | 	Valid Accuracy     : 0.7013
+
+Epoch : 2
+Train Loss     : 0.4279	 | 	Train Accuracy     : 0.8232
+Valid Loss     : 0.5499	 | 	Valid Accuracy     : 0.7068
+
+Epoch : 3
+Train Loss     : 0.3617	 | 	Train Accuracy     : 0.8593
+Valid Loss     : 0.6136	 | 	Valid Accuracy     : 0.7039
+
+Evaluate on the Test set:
+Test loss      :0.5932	 | Test Accuracy      : 0.7220
+
+################## Training is Done! #########################
+Training time is : 0:00:10.749960

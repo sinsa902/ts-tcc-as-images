@@ -1,0 +1,53 @@
+=============================================
+Dataset: pFD
+Method:  TS-TCC
+Mode:    fine_tune
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 58.3621	 | 	Train Accuracy     : 0.4206
+Valid Loss     : 18.4990	 | 	Valid Accuracy     : 0.4033
+
+Epoch : 2
+Train Loss     : 39.6791	 | 	Train Accuracy     : 0.4412
+Valid Loss     : 131.0855	 | 	Valid Accuracy     : 0.4559
+
+Epoch : 3
+Train Loss     : 19.5179	 | 	Train Accuracy     : 0.4859
+Valid Loss     : 13.4885	 | 	Valid Accuracy     : 0.4607
+
+Epoch : 4
+Train Loss     : 46.9396	 | 	Train Accuracy     : 0.4803
+Valid Loss     : 163.3436	 | 	Valid Accuracy     : 0.0904
+
+Epoch : 5
+Train Loss     : 8.4522	 | 	Train Accuracy     : 0.5838
+Valid Loss     : 13.2276	 | 	Valid Accuracy     : 0.4526
+
+Epoch : 6
+Train Loss     : 93.8908	 | 	Train Accuracy     : 0.5038
+Valid Loss     : 11.9875	 | 	Valid Accuracy     : 0.3088
+
+Epoch : 7
+Train Loss     : 3.5667	 | 	Train Accuracy     : 0.6733
+Valid Loss     : 8.1754	 | 	Valid Accuracy     : 0.4062
+
+Epoch : 8
+Train Loss     : 31.6983	 | 	Train Accuracy     : 0.5518
+Valid Loss     : 9.7207	 | 	Valid Accuracy     : 0.4603
+
+Epoch : 9
+Train Loss     : 2.4924	 | 	Train Accuracy     : 0.7087
+Valid Loss     : 9.6314	 | 	Valid Accuracy     : 0.4500
+
+Epoch : 10
+Train Loss     : 50.4486	 | 	Train Accuracy     : 0.5900
+Valid Loss     : 8.8624	 | 	Valid Accuracy     : 0.4368
+
+Evaluate on the Test set:
+Test loss      :8.6970	 | Test Accuracy      : 0.4353
+
+################## Training is Done! #########################
+Training time is : 0:19:56.026470

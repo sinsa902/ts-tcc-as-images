@@ -1,0 +1,67 @@
+=============================================
+Dataset: sleepEDF
+Method:  °³¹ßÁß...
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.6392	 | 	Train Accuracy     : 0.7566
+Valid Loss     : 1.0783	 | 	Valid Accuracy     : 0.6404
+
+Epoch : 2
+Train Loss     : 0.5256	 | 	Train Accuracy     : 0.8031
+Valid Loss     : 0.6763	 | 	Valid Accuracy     : 0.7490
+
+Epoch : 3
+Train Loss     : 0.4782	 | 	Train Accuracy     : 0.8186
+Valid Loss     : 0.9749	 | 	Valid Accuracy     : 0.6469
+
+Epoch : 4
+Train Loss     : 0.4315	 | 	Train Accuracy     : 0.8357
+Valid Loss     : 0.7601	 | 	Valid Accuracy     : 0.7296
+
+Epoch : 5
+Train Loss     : 0.3684	 | 	Train Accuracy     : 0.8613
+Valid Loss     : 0.6471	 | 	Valid Accuracy     : 0.7560
+
+Epoch : 6
+Train Loss     : 0.3248	 | 	Train Accuracy     : 0.8759
+Valid Loss     : 0.8972	 | 	Valid Accuracy     : 0.7271
+
+Epoch : 7
+Train Loss     : 0.2570	 | 	Train Accuracy     : 0.9063
+Valid Loss     : 0.9004	 | 	Valid Accuracy     : 0.7251
+
+Epoch : 8
+Train Loss     : 0.1972	 | 	Train Accuracy     : 0.9275
+Valid Loss     : 1.2313	 | 	Valid Accuracy     : 0.6923
+
+Epoch : 9
+Train Loss     : 0.1515	 | 	Train Accuracy     : 0.9449
+Valid Loss     : 1.0481	 | 	Valid Accuracy     : 0.7223
+
+Epoch : 10
+Train Loss     : 0.1043	 | 	Train Accuracy     : 0.9624
+Valid Loss     : 1.2916	 | 	Valid Accuracy     : 0.7485
+
+Epoch : 11
+Train Loss     : 0.0873	 | 	Train Accuracy     : 0.9703
+Valid Loss     : 0.8439	 | 	Valid Accuracy     : 0.7765
+
+Epoch : 12
+Train Loss     : 0.0909	 | 	Train Accuracy     : 0.9688
+Valid Loss     : 1.1449	 | 	Valid Accuracy     : 0.7175
+
+Epoch : 13
+Train Loss     : 0.0757	 | 	Train Accuracy     : 0.9738
+Valid Loss     : 1.2149	 | 	Valid Accuracy     : 0.7114
+
+Epoch : 14
+Train Loss     : 0.0663	 | 	Train Accuracy     : 0.9761
+Valid Loss     : 1.0820	 | 	Valid Accuracy     : 0.7505
+
+Epoch : 15
+Train Loss     : 0.0734	 | 	Train Accuracy     : 0.9759
+Valid Loss     : 1.0658	 | 	Valid Accuracy     : 0.7455

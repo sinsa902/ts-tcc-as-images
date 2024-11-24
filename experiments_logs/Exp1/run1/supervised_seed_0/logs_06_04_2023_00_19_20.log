@@ -1,0 +1,55 @@
+=============================================
+Dataset: sleepEDF
+Method:  TS-TCC
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 65.7388	 | 	Train Accuracy     : 0.2550
+Valid Loss     : 3.8362	 | 	Valid Accuracy     : 0.1740
+
+Epoch : 2
+Train Loss     : 2.0960	 | 	Train Accuracy     : 0.2810
+Valid Loss     : 1.5194	 | 	Valid Accuracy     : 0.3850
+
+Epoch : 3
+Train Loss     : 1.5165	 | 	Train Accuracy     : 0.3490
+Valid Loss     : 1.4944	 | 	Valid Accuracy     : 0.4200
+
+Epoch : 4
+Train Loss     : 1.5085	 | 	Train Accuracy     : 0.3520
+Valid Loss     : 1.4887	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 5
+Train Loss     : 1.4843	 | 	Train Accuracy     : 0.3860
+Valid Loss     : 1.4651	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 6
+Train Loss     : 1.5187	 | 	Train Accuracy     : 0.3650
+Valid Loss     : 1.4576	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 7
+Train Loss     : 1.6389	 | 	Train Accuracy     : 0.3490
+Valid Loss     : 1.4583	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 8
+Train Loss     : 1.4817	 | 	Train Accuracy     : 0.3800
+Valid Loss     : 1.4627	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 9
+Train Loss     : 1.7017	 | 	Train Accuracy     : 0.3530
+Valid Loss     : 1.4589	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 10
+Train Loss     : 1.4721	 | 	Train Accuracy     : 0.3840
+Valid Loss     : 1.4618	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 11
+Train Loss     : 1.5105	 | 	Train Accuracy     : 0.3540
+Valid Loss     : 1.4696	 | 	Valid Accuracy     : 0.4250
+
+Epoch : 12
+Train Loss     : 1.4857	 | 	Train Accuracy     : 0.3680
+Valid Loss     : 1.4638	 | 	Valid Accuracy     : 0.4250
